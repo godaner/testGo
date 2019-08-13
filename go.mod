@@ -1,4 +1,4 @@
-module testGo
+module github.com/godaner/testGo
 
 go 1.12
 
